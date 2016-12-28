@@ -1,0 +1,15 @@
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\bin\Debug\psg_solutions.exe.config
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\bin\Debug\psg_solutions.exe
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\bin\Debug\psg_solutions.pdb
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.csprojResolveAssemblyReference.cache
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.Form1.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.Properties.Resources.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.csproj.GenerateResource.Cache
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.exe
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.pdb
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.aboutdeveloper.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.aboutpsg.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.newprofile.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.addlearn.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.edit.resources
+C:\Users\HP PC\Desktop\psg_solutions\psg_solutions\obj\Debug\psg_solutions.editlogin.resources
